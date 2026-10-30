@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+pytesseract
+transformers
+torch
+pydantic
+groq
+python-dotenv
+pdf2image
+spacy

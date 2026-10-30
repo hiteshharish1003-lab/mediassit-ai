@@ -1,0 +1,25 @@
+.env
+.env.*
+!.env.example
+client/.env.local
+client/.env.*.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# User-uploaded prescriptions and generated output (may contain personal health data)
+server/uploads/
+server/summaries/
+
+# OS
+.DS_Store
+
+# Personal sample images
+med images/
